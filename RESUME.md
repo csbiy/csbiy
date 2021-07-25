@@ -27,19 +27,19 @@
 ---
 ### 프로젝트 경험
 
-##### 1)  비임상 데이터  Dashboard 구축
+#### 1)  비임상 데이터  Dashboard 구축
 - 주요 업무 : 비임상 데이터 현황을 조회할 수 있는 웹 app 개발
 - 주 역할 : 서버 개발
 - 기술 stack :  Javascript , Java - Spring / ORM ( JPA , Querydsl ) , MySQL
 - 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하고  있습니다. 또한 REST API 를 통해 외부 DB 데이터를 조회할 수 있는 모듈도 추가 개발 중입니다.
 
-##### 2. Reproducible Research System 구축
+#### 2. Reproducible Research System 구축
 - 주요 업무 : 결과보고서 자동화를 위한 데이터 파이프라인 구축
 - 주 역할 : R 코드 개발 
 - 기술 stack : R (dplyr , ggplot2) 
 - 상세 내용 : 센터에서 의뢰사가 요청한 실험을 서비스 형태로 수행해주면, 생산된 데이터가 보고서까지 직결될 수 있도록 데이터 전처리에서 부터 업무 자동화 모듈을 개발하였습니다.
 
-##### 3. 설문조사 app 개발 
+#### 3. 설문조사 app 개발 
 - 기술 stack : AWS Elastic Bean stalk, Docker, Nodejs
 - 상세 내용 : 업무 자동화 모듈에 대한 설문조사 web application을 개발하여 program의 단점 및 개선안을 받고 있습니다. 
 
