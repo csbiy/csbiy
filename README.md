@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/NodeJS-Express-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 <div>
+ IDE tools : IntelliJ , VSCode , RStudio , Jypyter NoteBook
+ </div>
+<div>
 <br>
  <p>개발 블로그 : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
 </div>
