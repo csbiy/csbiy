@@ -25,7 +25,7 @@
  <div>
  </div>
 <div>
- <strong> IDE tools </strong> : IntelliJ , VSCode , RStudio , Jypyter NoteBook
+ <strong style="margin-top:10px;"> IDE tools </strong> : IntelliJ , VSCode , RStudio , Jypyter NoteBook
  </div>
 <div>
 <br>
