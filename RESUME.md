@@ -34,7 +34,10 @@
 - 기술 stack :  Javascript , Java - Spring / ORM ( JPA , Querydsl ) , MySQL
 - 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하고  있습니다. 또한 REST API 를 통해 외부 DB 데이터를 조회할 수 있는 모듈도 추가 개발 중입니다.
 
-https://user-images.githubusercontent.com/71597530/128340463-aa51fa2a-2b8c-43f0-af5e-9fc66c4690cf.mp4
+<div style="margin=auto 0; width:200px; height:150px">
+https://user-images.githubusercontent.com/71597530/128340786-c10ef322-dd19-48b9-8c4f-f9c5cd1523f8.mp4
+</div>
+
 
 #### 2. Reproducible Research System 구축
 - 주요 업무 : 결과보고서 자동화를 위한 데이터 파이프라인 구축
@@ -46,7 +49,10 @@ https://user-images.githubusercontent.com/71597530/128340463-aa51fa2a-2b8c-43f0-
 - 기술 stack : AWS Elastic Bean stalk, Docker, Nodejs
 - 상세 내용 : 업무 자동화 모듈에 대한 설문조사 web application을 개발하여 program의 단점 및 개선안을 받고 있습니다. 
 
-https://user-images.githubusercontent.com/71597530/128340420-3953b03f-c0d0-4dbb-9f99-ab6e57f64359.mp4
+
+
+https://user-images.githubusercontent.com/71597530/128340756-eab523f6-cba2-4dcb-bd66-a422e9a124db.mp4
+
 
 
 
