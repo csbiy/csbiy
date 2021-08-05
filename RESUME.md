@@ -13,6 +13,7 @@
 
 ---
 
+
 ### 학력
 
 - 늘푸른고등학교 / 이과계열 (2015 졸업)
@@ -33,6 +34,8 @@
 - 기술 stack :  Javascript , Java - Spring / ORM ( JPA , Querydsl ) , MySQL
 - 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하고  있습니다. 또한 REST API 를 통해 외부 DB 데이터를 조회할 수 있는 모듈도 추가 개발 중입니다.
 
+https://user-images.githubusercontent.com/71597530/128340463-aa51fa2a-2b8c-43f0-af5e-9fc66c4690cf.mp4
+
 #### 2. Reproducible Research System 구축
 - 주요 업무 : 결과보고서 자동화를 위한 데이터 파이프라인 구축
 - 주 역할 : R 코드 개발 
@@ -42,6 +45,10 @@
 #### 3. 설문조사 app 개발 
 - 기술 stack : AWS Elastic Bean stalk, Docker, Nodejs
 - 상세 내용 : 업무 자동화 모듈에 대한 설문조사 web application을 개발하여 program의 단점 및 개선안을 받고 있습니다. 
+
+https://user-images.githubusercontent.com/71597530/128340420-3953b03f-c0d0-4dbb-9f99-ab6e57f64359.mp4
+
+
 
 ___
 
