@@ -1,4 +1,3 @@
-![dashboard](https://user-images.githubusercontent.com/71597530/132277423-12c09fae-41d6-428a-b303-3d1562350fb7.gif)
 ## 이력서
 ### 소개 
 - 이름 : 김찬수 
