@@ -34,9 +34,9 @@
 - 주 역할 : 서버 개발
 - 기술 stack :  Javascript , Java - Spring / ORM ( JPA , Querydsl ) , MySQL
 - 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하고  있습니다. 또한 REST API 를 통해 외부 DB 데이터를 조회할 수 있는 모듈도 추가 개발 중입니다.
-- 
-- 
-- ![dashboard](https://user-images.githubusercontent.com/71597530/132277437-28864610-cafb-486f-922e-608ec09c336a.gif)
+
+
+https://user-images.githubusercontent.com/71597530/132277524-0e42332d-5481-4363-8180-7866e208e320.mp4
 
 
 
