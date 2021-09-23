@@ -26,7 +26,7 @@
 ### 경력
 
 - 서울아산병원 항암유효성평가지원센터 데이터 엔지니어 (2020.09 ~ 2021.09)
-- <strong> 인천병원-서울대병원 합동 연구단 서버 개발자 (2021.09 - 현재)  </strong>
+- <strong> (현) 인천병원-서울대병원 합동 연구단 서버 개발자 (2021.09 - )  </strong>
 ---
 ### 프로젝트 경험
 
@@ -60,7 +60,7 @@ ___
 ### 대외활동
 
 
-- 2020.09 ~ 2021.01 Java&Springboot 교육생 3기
+- 2020.09 ~ 2021.01 FastCampus - Java&Springboot 교육생 3기
     - 주요 기술 stack : Java,Spring Boot
 - 2021.07 ~ 2021.08 네이버 직무부트캠프 - cloud 교육생 
     - 주요 기술 stack : AWS(EC2,RDS,ECS,Fargate),Docker,Flask
