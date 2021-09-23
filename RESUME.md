@@ -25,7 +25,8 @@
 ---
 ### 경력
 
-- (현) 서울아산병원 항암유효성평가지원센터 데이터 엔지니어 (2020.09 ~ 재직중 )
+- 서울아산병원 항암유효성평가지원센터 데이터 엔지니어 (2020.09 ~ 2021.09)
+- <strong> 인천병원-서울대병원 합동 연구단 서버 개발자 (2021.09 - 현재)  </strong>
 ---
 ### 프로젝트 경험
 
@@ -33,11 +34,9 @@
 - 주요 업무 : 비임상 데이터 현황을 조회할 수 있는 웹 app 개발
 - 주 역할 : 서버 개발
 - 기술 stack :  Javascript , Java - Spring / ORM ( JPA , Querydsl ) , MySQL
-- 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하고  있습니다. 또한 REST API 를 통해 외부 DB 데이터를 조회할 수 있는 모듈도 추가 개발 중입니다.
-
+- 상세 내용 : 각 실험실에서 나온 비임상 데이터를 웹 어플리케이션을 통해 조회할 수 있는 Dashboard 를 개발하였습니다.
 
 https://user-images.githubusercontent.com/71597530/132277524-0e42332d-5481-4363-8180-7866e208e320.mp4
-
 
 
 #### 2. Reproducible Research System 구축
@@ -49,7 +48,6 @@ https://user-images.githubusercontent.com/71597530/132277524-0e42332d-5481-4363-
 #### 3. 설문조사 app 개발 
 - 기술 stack : AWS Elastic Bean stalk, Docker, Nodejs
 - 상세 내용 : 업무 자동화 모듈에 대한 설문조사 web application을 개발하여 program의 단점 및 개선안을 받고 있습니다. 
-
 
 
 https://user-images.githubusercontent.com/71597530/128340756-eab523f6-cba2-4dcb-bd66-a422e9a124db.mp4
