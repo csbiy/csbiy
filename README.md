@@ -23,7 +23,7 @@
  <p> TIL 블로그 : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
 </div>
 <div>
-<!--  제가 궁금하세요? 👉🏻 <a id="resumeBtn"href="https://github.com/devcs96/devcs96/blob/master/RESUME.md">RESUME</a> -->
+ 제가 궁금하세요? 👉🏻 <a id="resumeBtn"href="https://github.com/devcs96/devcs96/blob/master/RESUME.md">RESUME</a>
 </div>
 </div>
 </body>
