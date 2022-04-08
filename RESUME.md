@@ -35,14 +35,4 @@ ___
 - 2020.02,08 서울대학교병원 유전체 임상 정보분석 훈련센터 'Public Bio Big Data' workshop 교육 수료 
   - 주요 기술 stack : R , Python
    
-___
-
-### 자격증 및 학술대회
-
-- 자격증 :  정보처리기사 , 리눅스마스터 2급 
-- 학술대회 : 2020.02월 중국 상하이에서 개최된 Cell press주관 학술대회에 Lupus 환자의 whole exome sequencing 
-Pathogenic variant Screening  데이터 분석 결과 포스터 발표
-___
-
-
 
