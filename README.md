@@ -11,14 +11,13 @@
 </div>
 <br>
 <div>
- <strong style="margin-top:10px;"> IDE tools </strong> : IntelliJ , VSCode , RStudio
- </div>
-<div>
 <br>
- <p> TIL Blog : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
- <p> LinkedIn : <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/"</a> </p>
+ <p> <a href="https://devcs96.github.io/">https://devcs96.github.io/</a>TIL Blog</p>
+ <p> <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/">LinkedIn</a> </p>
 </div>
 <div>
+
+https://github-readme-stats.vercel.app/api?username=devcs96
  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/devcs96)
  
