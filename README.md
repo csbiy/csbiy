@@ -17,7 +17,7 @@
 </div>
 <div>
 
-https://github-readme-stats.vercel.app/api?username=devcs96
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcs86)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/devcs96)
  
