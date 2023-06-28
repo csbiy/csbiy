@@ -1,12 +1,6 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 </head>
-<hr>
-<div style="margin-bottom:10px;">
-배움을 좋아하는 주니어 개발자입니다👋🏻
-</div>
-<hr>
-
 
 <body>
 <div align="center" src="![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`">
