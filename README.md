@@ -12,7 +12,7 @@
 <br>
 <div>
 <br>
- <p> <a href="https://devcs96.github.io/">https://devcs96.github.io/</a>TIL Blog</p>
+ <p> <a href="https://devcs96.github.io/">TIL Blog </a></p>
  <p> <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/">LinkedIn</a> </p>
 </div>
 <div>
