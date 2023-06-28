@@ -7,6 +7,7 @@
 </div>
 <hr>
 
+
 <body>
 <div align="center" src="![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`">
  <h4>✍🏻 Tech Stacks ✍🏻</h4> 
@@ -23,6 +24,9 @@
  <p> TIL 블로그 : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
 </div>
 <div>
+
+ https://leetcard.jacoblin.cool/devcs96?theme=unicorn&font=Abel&ext=activity
+ 
 <!--  제가 궁금하세요? 👉🏻 <a id="resumeBtn"href="https://github.com/devcs96/devcs96/blob/master/RESUME.md">RESUME</a> -->
 </div>
 </div>
