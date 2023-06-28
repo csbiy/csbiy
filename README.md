@@ -24,8 +24,8 @@
  <p> TIL 블로그 : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
 </div>
 <div>
-
- https://leetcard.jacoblin.cool/devcs96?theme=unicorn&font=Abel&ext=activity
+ 
+![Leetcode Stats](https://leetcard.jacoblin.cool/devcs96)
  
 <!--  제가 궁금하세요? 👉🏻 <a id="resumeBtn"href="https://github.com/devcs96/devcs96/blob/master/RESUME.md">RESUME</a> -->
 </div>
