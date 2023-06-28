@@ -9,12 +9,12 @@
  <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-red.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
  <img alt="amazon-aws" src ="https://img.shields.io/badge/amazon-aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
-<br>
+<!-- <br>
 <div>
 <br>
  <p> <a href="https://devcs96.github.io/">TIL Blog </a></p>
  <p> <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/">LinkedIn</a> </p>
-</div>
+</div> -->
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcs96)](https://github.com/anuraghazra/github-readme-stats)
