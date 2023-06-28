@@ -15,7 +15,8 @@
  </div>
 <div>
 <br>
- <p> TIL 블로그 : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
+ <p> TIL Blog : <a href="https://devcs96.github.io/">https://devcs96.github.io/</a> </p>
+ <p> LinkedIn : <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/"</a> </p>
 </div>
 <div>
  
