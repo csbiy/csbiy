@@ -4,7 +4,7 @@
 
 <body>
 <div align="center" >
- <h4> :rocket: Tech Stacks </h4> 
+ <p> :rocket: Tech Stacks </p> 
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>  
  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-yellow.svg?&style=for-the-badge&logo=KOTLIN&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
