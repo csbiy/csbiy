@@ -6,6 +6,7 @@
 <div align="center" src="![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`">
  <h4>✍🏻 Tech Stacks ✍🏻</h4> 
 <img alt="Java" src ="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>  
+ <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-yellow.svg?&style=for-the-badge&logo=KOTLIN&logoColor=white"/>
 
  <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
  <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-red.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
