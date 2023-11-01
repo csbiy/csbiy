@@ -20,9 +20,13 @@
 </div>
 <br>
 
- <p> <a href="https://devcs96.github.io/">Blog </a> <a href="https://devcs96.github.io/">Blog </a></p>
+<div>
+  <a href="https://csbiy.github.io/">About Me</a>
+  <br />
+  <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a> 
+</div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity) -->
  <a id="resumeBtn"href="https://github.com/devcs96/csbiy/blob/master/RESUME.md">RESUME</a>
 </div>
 </div>
