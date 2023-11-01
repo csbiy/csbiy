@@ -17,21 +17,13 @@
  <br/>
  <img alt="amazon-aws" src ="https://img.shields.io/badge/amazon-aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
  <img alt="google-gcp" src ="https://img.shields.io/badge/google-gcp-232F3E.svg?&style=for-the-badge&logo=google-gcp&logoColor=white"/> 
- 
 </div>
 <br>
-<!-- <div>
-<br>
- <p> <a href="https://devcs96.github.io/">TIL Blog </a></p>
- <p> <a href="https://www.linkedin.com/in/chan-soo-kim-ba2047278/">LinkedIn</a> </p>
-</div>  -->
-<div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csbiy)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity) -->
- 
-<!--  제가 궁금하세요? 👉🏻 <a id="resumeBtn"href="https://github.com/devcs96/csbiy/blob/master/RESUME.md">RESUME</a> -->
+ <p> <a href="https://devcs96.github.io/">Blog </a> <a href="https://devcs96.github.io/">Blog </a></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity)
+ <a id="resumeBtn"href="https://github.com/devcs96/csbiy/blob/master/RESUME.md">RESUME</a>
 </div>
 </div>
 </body>
