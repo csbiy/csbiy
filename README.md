@@ -21,13 +21,14 @@
 <br>
 
 <div>
-  <a href="https://csbiy.github.io/">About Me</a>
+  :raising_hand: <a href="https://csbiy.github.io/">About Me</a>
   <br />
-  <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a> 
+  <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a>
+  <br />
+  <a id="resumeBtn" href="https://prairie-trout-7d1.notion.site/8a0cecfc9b5e4502bf64f34023c8146f">Resume</a>
 </div>
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity) -->
- <a id="resumeBtn"href="https://github.com/devcs96/csbiy/blob/master/RESUME.md">RESUME</a>
 </div>
 </div>
 </body>
