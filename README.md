@@ -3,7 +3,7 @@
 </head>
 
 <body>
-<div align="center" src="![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`">
+<div align="center" >
  <h4> :rocket: Tech Stacks </h4> 
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>  
  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-yellow.svg?&style=for-the-badge&logo=KOTLIN&logoColor=white"/>
