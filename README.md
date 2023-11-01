@@ -17,16 +17,18 @@
  <br/>
  <img alt="amazon-aws" src ="https://img.shields.io/badge/amazon-aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
  <img alt="google-gcp" src ="https://img.shields.io/badge/google-gcp-232F3E.svg?&style=for-the-badge&logo=google-gcp&logoColor=white"/> 
-</div>
-<br>
 
+ <br/>
 <div>
   :raising_hand: <a href="https://csbiy.github.io/">About Me</a>
   <br />
-  <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a>
+  :computer: <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a>
   <br />
-  <a id="resumeBtn" href="https://prairie-trout-7d1.notion.site/8a0cecfc9b5e4502bf64f34023c8146f">Resume</a>
+  :pencil: <a id="resumeBtn" href="https://prairie-trout-7d1.notion.site/8a0cecfc9b5e4502bf64f34023c8146f">Resume</a>
 </div>
+</div>
+<br>
+
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/csbiy?ext=activity) -->
 </div>
