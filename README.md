@@ -8,13 +8,13 @@
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>  
  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-yellow.svg?&style=for-the-badge&logo=KOTLIN&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+ <br/>
  <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
  <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-red.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
-
- 
+ <br/>
  <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
- 
+ <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+ <br/>
  <img alt="amazon-aws" src ="https://img.shields.io/badge/amazon-aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
  <img alt="google-gcp" src ="https://img.shields.io/badge/google-gcp-232F3E.svg?&style=for-the-badge&logo=google-gcp&logoColor=white"/> 
  
