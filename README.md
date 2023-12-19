@@ -24,7 +24,6 @@
   <br />
   :computer: <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a>
   <br />
-  :pencil: <a id="resumeBtn" href="https://prairie-trout-7d1.notion.site/8a0cecfc9b5e4502bf64f34023c8146f">Resume</a>
 </div>
 </div>
 <br>
