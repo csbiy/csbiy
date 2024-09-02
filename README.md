@@ -22,7 +22,7 @@
 <div>
 <!--   :raising_hand: <a href="https://csbiy.github.io/">About Me</a> -->
   <br />
-  :computer: <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a>
+<!--   :computer: <a href="http://git-blog.s3-website.ap-northeast-2.amazonaws.com/">Blog</a> -->
   <br />
 </div>
 </div>
